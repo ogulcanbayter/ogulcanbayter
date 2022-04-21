@@ -7,7 +7,7 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP / TAILWIND 🧑‍🚀
 
 - 🌱 I’m currently learning advanced ReactJS, NextJS & NodeJS. 
 - 💬 Ask me about  all about the front end. 🤩 
-- 📫 How to reach me: You can reach me from my accounts above.  👆 
+- 📫 How to reach me: You can reach me from my accounts above.  👇 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ogulcanbayter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ogulcanbayter/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ogulcan.bayter/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ogulcanbayter.com)  
